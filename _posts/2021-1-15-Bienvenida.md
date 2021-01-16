@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Software Technology Enchanter!
+title: Software Enchanter!
 ---
 
 ## Blog y gaceta tecnológica para compartir soluciones a problemas de IT cotidianos.
