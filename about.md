@@ -10,4 +10,4 @@ permalink: /about/
 Talvez pueda ayudarte a resolver algún problema relacionado con el software libre.
 
 ### Escríbeme
-[email@domain.com](mailto:mauricio.arregui@gmail.com)
+[mauricio.arregui@gmail.com](mailto:mauricio.arregui@gmail.com)
