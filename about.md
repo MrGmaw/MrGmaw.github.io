@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Software libre
 permalink: /about/
 ---
 
