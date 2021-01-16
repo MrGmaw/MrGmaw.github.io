@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## Mauricio Arregui Ortiz
+**Ingeniero en Informática**
 
-### More Information
+Talvez pueda ayudarte a resolver algún problema relacionado con el software libre.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+### Escríbeme
+[email@domain.com](mailto:mauricio.arregui@gmail.com)
